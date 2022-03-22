@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ComplexEvent</string>
+    <string name="edit_text_hint">Введите текст</string>
+    <string name="check_box_title">Точно сохранить?</string>
+    <string name="submit_button_text">Сохранить</string>
+    <string name="view_text_hint">Нажмите кнопку и текст сохранится здесь</string>
+</resources>
